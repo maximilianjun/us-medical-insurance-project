@@ -2,6 +2,7 @@
  
 Goals
 - The goal of this project is to find potential use cases from the insurance data using Python fundamentals.
+- Demonstrate Pandas and Python fundamentals.
 
 ### Data
 - Insurance - provided by [Codecademy.com](codecademy.com)
